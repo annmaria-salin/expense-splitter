@@ -1,4 +1,4 @@
-## Expense-splitter-web-app
+## Expense-splitter
 
 This Flask application simplifies bill splitting among flatmates by considering the duration each individual spends in the household. Users can utilize its web interface to input bill information and determine each flatmate's share accurately.
 
